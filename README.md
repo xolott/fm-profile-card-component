@@ -28,8 +28,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/xolott/fm-profile-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/profile-card-using-react-and-styled-components-animation-4LghwdwyJ)
+- Live Site URL: [Vercel](https://fm-profile-card-component-psi.vercel.app/)
 
 ## My process
 
